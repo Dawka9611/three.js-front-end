@@ -1,0 +1,12 @@
+.alert {
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   width: 160px;
+   height: 100px;
+   border: 1px solid orange;
+   border-radius: 8px;
+   z-index: 10;
+   cursor: pointer;
+}
