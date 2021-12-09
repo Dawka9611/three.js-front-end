@@ -23,3 +23,17 @@
 .inputfilled{
    border: 1px solid red;
 }
+
+.inputConatiner{
+   display: flex;
+   align-items: center;
+}
+
+.icon{
+   color:  red;
+   height: 24px;
+}
+
+.inputUnfilled{
+   border: 1px solid red;
+}
